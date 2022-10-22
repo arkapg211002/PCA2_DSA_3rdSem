@@ -1,1 +1,1 @@
-# PCA2_DSA_3rdSem
+# PCA2 DSA in C (Sem: 3)

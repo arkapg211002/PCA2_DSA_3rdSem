@@ -249,3 +249,5 @@ int main() {
 ```
 
 [prims algorithm](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/)
+
+[kruskal shorter version](https://www.mycplus.com/source-code/c-source-code/kruskals-algorithm-implementation-c-programming/)

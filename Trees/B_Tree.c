@@ -131,6 +131,7 @@ void insert(int val)
 }
 
 // Search node
+/*
 void search(int val, int *pos, struct BTreeNode *myNode)
 {
     if (!myNode)
@@ -157,7 +158,7 @@ void search(int val, int *pos, struct BTreeNode *myNode)
 
     return;
 }
-
+*/
 // Traverse then nodes
 void traversal(struct BTreeNode *myNode)
 {
